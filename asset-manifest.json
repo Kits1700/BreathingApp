@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BreathingApp.github.io/static/css/main.9720fdb5.css",
+    "main.js": "/BreathingApp.github.io/static/js/main.bd22e11f.js",
+    "static/js/787.9a7a5a2b.chunk.js": "/BreathingApp.github.io/static/js/787.9a7a5a2b.chunk.js",
+    "index.html": "/BreathingApp.github.io/index.html",
+    "main.9720fdb5.css.map": "/BreathingApp.github.io/static/css/main.9720fdb5.css.map",
+    "main.bd22e11f.js.map": "/BreathingApp.github.io/static/js/main.bd22e11f.js.map",
+    "787.9a7a5a2b.chunk.js.map": "/BreathingApp.github.io/static/js/787.9a7a5a2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9720fdb5.css",
+    "static/js/main.bd22e11f.js"
+  ]
+}
